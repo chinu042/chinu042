@@ -1,9 +1,17 @@
-### Hi there 👋
+### I am Chinmay Lavande (he/him), from India. Welcome to my :octocat: profile.
 
-<!--
-**chinu042/chinu042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Chinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinu042&show_icons=true&theme=merko)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinu042&layout=compact)
+
+
+
+![](https://komarev.com/ghpvc/?username=chinu042&abbreviated=true)
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +21,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
