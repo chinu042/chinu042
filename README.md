@@ -8,9 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=chinu042&abbreviated=true)
 
-![Chinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinu042&show_icons=true&theme=merko)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinu042&layout=compact)
 
 
 ## Languages Proficient In:
