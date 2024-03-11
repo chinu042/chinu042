@@ -6,6 +6,11 @@
 - ⚡ Fun fact: I once wrote a script that generated random compliments for my teammates every morning. It made debugging sessions a lot more cheerful!
 
 
+![Chinmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinu042&show_icons=true&theme=merko)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinu042&layout=compact)
+
+
 ![](https://komarev.com/ghpvc/?username=chinu042&abbreviated=true)
 
 
